@@ -1,0 +1,7 @@
+
+    <svg width="400" height="500" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#f3f4f6"/>
+      <path d="M200 150 A50 50 0 1 0 200 250 A50 50 0 1 0 200 150" fill="#d1d5db"/>
+      <path d="M100 400 Q200 300 300 400" stroke="#d1d5db" stroke-width="100" fill="none"/>
+    </svg>
+  
